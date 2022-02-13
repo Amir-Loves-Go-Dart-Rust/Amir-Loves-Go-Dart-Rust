@@ -13,6 +13,6 @@ Skills i have in categories are:
     - [Python](python.org "An Object Oriented Easy Syntax And Begener Friendly Language Strongly Used in Machine Learning And Data Sience")
   - Database Managment Systems
     - [MongoDB](mongodb.com "An Open Source NoSql Document Oriented Dbms")
-    - [Redis][(redis.io "An Open Source Very Fast Cache based NoSql Dbms")
+    - [Redis](redis.io "An Open Source Very Fast Cache based NoSql Dbms")
     - [PostgreSql](www.postgresql.org "An Open Source Relational RdbMs") **Still in learning process**
   
